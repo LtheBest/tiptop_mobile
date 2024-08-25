@@ -117,7 +117,7 @@ class _InscriptionPageState extends State<InscriptionPage> {
                   // Action lors du clic sur le bouton d'inscription
                 },
                 style: ElevatedButton.styleFrom(
-                  primary: Color.fromARGB(255, 243, 166, 33),
+                  backgroundColor: Color.fromARGB(255, 243, 166, 33),
                 ),
                 child: Text('Inscription'),
               ),
